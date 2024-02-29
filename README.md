@@ -7,15 +7,15 @@
   <img alt="Saptak's Website" width="34px" src="https://lh3.googleusercontent.com/a-/AOh14GizYqzvo6N-7DkDJuSAdlQDNZrmYPwA8aeMKTVvoLs=s432-p-rw-no" />
 </a>
   
- <a href="https://www.facebook.com/Saptak10">
+ <a href="https://www.facebook.com/profile.php?id=100010915214270">
   <img alt="Saptak's Facebook" width="33px" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" />
 </a> -->
   
-  <a href="https://www.instagram.com/saptak10/">
+  <a href="https://www.instagram.com/pritikaaa__/">
   <img alt="Saptak's Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
   
-  <a href="https://www.linkedin.com/in/saptak-chakraborty/">
+  <a href="https://www.linkedin.com/in/pritika-chatterjee-48886a1bb/">
   <img alt="Saptak's LinkedIN" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
   
@@ -56,7 +56,7 @@
 <!-- [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=1929114@kiit.ac.in&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:1929114@kiit.ac.in) -->
 
 
-   <kbd> <br><a width="550px" href="">RESUME</a> <br> </kbd>
+   <kbd> <br><a width="550px" href="https://drive.google.com/file/d/1kmpj8ljxva-1RoqdgpFR7CldRyEo8S_o/view">RESUME</a> <br> </kbd>
 <!--    <table align="center"><td>Resume</td></table> -->
 </h1>
 
