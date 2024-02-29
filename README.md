@@ -8,19 +8,19 @@
 </a>
   
  <a href="https://www.facebook.com/profile.php?id=100010915214270">
-  <img alt="Saptak's Facebook" width="33px" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" />
+  <img alt="Pritika's Facebook" width="33px" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" />
 </a> -->
   
   <a href="https://www.instagram.com/pritikaaa__/">
-  <img alt="Saptak's Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+  <img alt="Pritika's Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
   
   <a href="https://www.linkedin.com/in/pritika-chatterjee-48886a1bb/">
-  <img alt="Saptak's LinkedIN" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
+  <img alt="Pritika's LinkedIN" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
   
 <a href="https://open.spotify.com/user/31humkqtfuyh3f4znuavyt2fwqsu">
-  <img alt="Saptak's Spotify" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
+  <img alt="Pritika's Spotify" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
 </a>
   
 <!-- <a href="https://www.youtube.com/channel/UC7VlXXvUZhxoo2ux617y_Gg">
@@ -74,7 +74,7 @@
 
 ### On the side journey,
   
-- 🎸 I love to play Guitar along with Singing and Beatboxing.
+- 🎸 I love to play Guitar along with Singing.
 - 💻 Exploring new technologies and upskilling myself from the internet.
 - ⚡ Coding in different platforms and giving contests and Hackathons.
 - 💃 Expertised in classical and western dance.
