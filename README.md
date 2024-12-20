@@ -67,17 +67,17 @@
   
 ## Hey there -> I am [Pritika Chatterjee]()
 
-- 📖 Currently studying from SRM Institute of Science and Technology, Chennai on M.Sc in Biotechnology.
-- 🌱 Learning new technologies and developing Web Applications 
-- 👨‍💻 Freelancing on Web Development
-- 🔣 Open Source Contributor
+- 📖 Currently studying M.Sc in Biotechnology at SRM Institute of Science and Technology.
+- 🌱 Learning new technologies and applying them to bioinformatics research and data analysis. 
+- 👨‍💻 Freelancing in bioinformatics-driven web development, creating innovative solutions for biological data visualization and analysis.
+- 🔣 Open Source Contributor.
 
 ### On the side journey,
   
-- 🎸 I love to play Guitar along with Singing.
-- 💻 Exploring new technologies and upskilling myself from the internet.
-- ⚡ Coding in different platforms and giving contests and Hackathons.
-- 💃 Expertised in classical and western dance.
+- 🎸 I love playing the guitar along with singing.
+- 💻 I explore new technologies and upskill myself through the internet.
+- ⚡ I like to code on different platforms and participate in contests and hackathons.
+- 💃 I have a strong interest and experience in classical and western dance.
  
  <br>
 <h1 align="center">Languages and tools I use</h1>
